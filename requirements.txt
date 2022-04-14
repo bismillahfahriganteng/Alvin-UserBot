@@ -43,8 +43,9 @@ requests>=2.18.4
 search-engine-parser>=0.6.1
 speedtest-cli>=2.0.2
 sqlalchemy<=1.3.23
-telethon>=1.24.0 
-telethon-session-sqlalchemy>=0.2.16
+telegraph
+telethon-session-sqlalchemy
+telethon
 urbandict>=0.5
 wikipedia>=1.4.0
 coffeehouse>=2.1.0
@@ -63,7 +64,6 @@ base
 pip>=19.2.3
 setuptools>=28.8.0
 selenium>=3.141.0 
-telegraph
 python-dateutil
 pyfiglet   
 jotquote
